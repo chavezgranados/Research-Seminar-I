@@ -1,1 +1,3 @@
-# Research-SeminarI
+# Research-Seminar-I
+
+Bienvenidos al curso!
